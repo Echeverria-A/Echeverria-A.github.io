@@ -1,0 +1,9 @@
+﻿Anthony Echeverria
+
+
+Zayd and I created a maze game. Zayd focused mainly on programming while I offered suggestions and help when he ran into problems. I focused on building the second stage and adding obstacles. After creating the second stage of the maze we had problems with the sprite being able to move through walls. The things we tried to prevent this from happening such as changing code did not help.
+Another challenge we faced was adding the obstacles. The obstacles were made to flash and reset the player to the beginning if the obstacle was touched. At first we had problems with the player being able to touch the obstacle without resetting player position. This was not working because the code for the obstacles were put in the wrong loop. After rearranging the code the obstacles were finally properly working. 
+
+
+Video:
+In the maze game the black square serves as the main character. The purpose of the game is to successfully navigate the maze while avoiding obstacles. As the game begins, the player can enjoy listening to some blissful tunes by Missy Elliott while taking on the quest of completing the treacherous mazes. The flashing purple squares are the obstacles and, if touched, will reset the player to the beginning of the maze. Once the player completes the stages they will be congratulated by “1080 hip hop.”
